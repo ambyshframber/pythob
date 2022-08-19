@@ -1,0 +1,7 @@
+print("hello world!");
+if 0 == 1 {     
+    print("beans");
+}
+else {
+    print("no beans :(");
+}
